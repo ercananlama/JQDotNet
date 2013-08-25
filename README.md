@@ -1,6 +1,7 @@
 ## JQDotNet
 
-JQDotNet is a .net framework which is used to query JSON data using simple and flexible expressions.
+JQDotNet is a framework which is used to query JSON data using simple and flexible expressions.
+It is built on .net framework 3.5.
 
 With JQDotNet, you can do the followings:
 
