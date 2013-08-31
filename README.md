@@ -49,3 +49,5 @@ And, in the following lines, you see sample illustrating how JQDotNet works with
 	var searchResult = JSONQuery.GetValue("json data here...", "Messages[Sender = 4].Attachments[0].Title");
 	// Here searchResult is set "Cake" 
 	// because we want to retrieve the value of Title element of first child of Attachments array in children of Messages whose Sender equals to 4
+	
+For the documentation, news and samples, please visit the [official site](#http://jqdotnet.com)
